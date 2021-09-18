@@ -1,7 +1,6 @@
 package com.moneygaming.tests;
 
 import com.moneygaming.untilities.WebDriverFactory;
-import org.omg.CORBA.PUBLIC_MEMBER;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
